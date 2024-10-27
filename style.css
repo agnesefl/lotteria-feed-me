@@ -1,0 +1,69 @@
+
+@font-face {
+    font-family: 'Helvetica'; /* Nome del font da usare in CSS */
+    src: url('fonts/Helvetica-Bold-Font.ttf') format('truetype'); /* Percorso e formato */
+    font-weight: normal;
+    font-style: normal;
+}
+.titolo {
+    font-family: Arial, sans-serif; /* Font dell'header */
+    font-size: 2rem; /* Dimensione del font */
+    color: rgb(0, 0, 0); /* Colore del testo */
+    background-color: red; /* Colore di sfondo dell’etichetta */
+    display: inline-block; /* Limita lo sfondo alla larghezza del testo */
+    padding: 5px 10px; /* Spazio intorno al testo per rendere l'etichetta più evidente */
+    margin-bottom: 20px; /* Spaziatura sotto l'etichetta */
+    border-radius: 3px; /* Arrotonda leggermente gli angoli dell'etichetta */
+}
+.sottotitolo {
+    font-size: 1.1em;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Helvetica', sans-serif;
+    background-color: white;
+    flex-direction: column;
+}
+
+/* Contenitore della foto */
+.photo-container {
+    position: relative;
+    width: 80%;
+    max-width: 600px;
+}
+
+/* Foto di sfondo */
+.photo {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Bottoni posizionati sopra la foto */
+.button {
+    position: absolute;
+    padding: 3px 4px;
+    background-color: #549052;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.button:hover {
+    background-color: #121d28;
+}
+
+/* Area messaggio */
+#message {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #333;
+   
+    text-align: center;
+}
