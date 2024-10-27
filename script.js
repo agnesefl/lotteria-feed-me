@@ -1,20 +1,21 @@
 // Liste di risposte per ciascun bottone
 const risposteBottone1 = [
-    "Ragazze ma avete visto quello???",
-    "ma noi?",
+    "ragazze ma avete visto quello???",
     "qualcuna riesce a comprarmi una calcolatrice?",
     "sto facendo brunch con dei carciofi e i biscotti",
     "ma vi ricordate quella crema che comprai a marzo?",
     "forse è la mia strada amo......",
     "secondo te ci hanno drogate?",
-    "sì belli questi stivali.. ma sono nuova non mi rappresentano più",
+    "sì belli questi stivali.. ma sono nuovo non mi rappresentano più",
     "agnese ma tu proprio........",
     "perchè noi quando sentiamo certe cose...",
-    "amo devi farmi una promessa però",
-    "forse mi iscrivo a yoga",
-    "ricordati la svendita... no vabe era ieri..",
-    "zitta che mi sta chiamando lorenzo",
-    "guardate cosa ho trovato su vinted, fa schifo?"
+    "fai quello che ti pare, io sono nel corso di un processo di reinvenzione ora non posso"
+    "devi farmi una promessa però",
+    "vorrei ricordarvi cosa abbiamo vissuto l'altro ieri",
+    "forse mi iscrivo a yoga in quello studio in solari?",
+    "ricordiamoci la svendita eh... ah niente era ieri..ma noi???",
+    "ok ora zitta che sto in chiamata con lorenzo",
+    "guardate cosa ho trovato su vinted, ma non è che sembro troppo una stagista?"
 
 ];
 
@@ -28,7 +29,10 @@ const risposteBottone2 = [
     "chi rimane tutta la notte a vedere le elezioni americane?",
     "se solo fossi amica di quelle di est radio...",
     "oddio ho excel alle 18",
-    "guarda che mi sono prenotata per prima!!!!!!!! le heets le ho comprate!! è scarica???",
+    "io l'avevo detto per prima però"
+    "facciamo i giochi? tanto il cruciverba del corriere lo vinci"
+    "le heets le ho comprate!! non mi dite che è scarica",
+    "ma io vi ho mai raccontato di quando sono rimasta traumatizzata a ischia?"
     "è una parola napoletana..avete sentito? non so se avete sentito",
     "secondo me dovremmo chiedere sul gruppo della classe",
     "sto ascoltando problemi di spazi"
@@ -37,7 +41,7 @@ const risposteBottone2 = [
 
 const risposteBottone3 = [
     "ascolta, non farmi ridere, lo vuoi questo kitkat o no",
-    "mi accompagni in bagno vero",
+    "accompagnami alla virgin.",
     "sapete cosa ha fatto bobino ieri? tu lo sai già non ascoltare",
     "non temere ce l'ho io",
     "io ti devo dare delle informazioni, ma solo dal vivo",
@@ -47,6 +51,7 @@ const risposteBottone3 = [
     "chi è che vuole telefonare al mio posto?",
     "ma forse è una mossa gravissima?",
     "ma chi è sta gente?"
+    "a me non convince molto questa persona"
 ];
 
 // Funzione per mostrare una risposta casuale in base al bottone
