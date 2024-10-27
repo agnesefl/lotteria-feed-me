@@ -9,7 +9,7 @@ const risposteBottone1 = [
     "sì belli questi stivali.. ma sono nuovo non mi rappresentano più",
     "agnese ma tu proprio........",
     "perchè noi quando sentiamo certe cose...",
-    "fai quello che ti pare, io sono nel corso di un processo di reinvenzione ora non posso"
+    "fai quello che ti pare, io sono nel corso di un processo di reinvenzione ora non posso",
     "devi farmi una promessa però",
     "vorrei ricordarvi cosa abbiamo vissuto l'altro ieri",
     "forse mi iscrivo a yoga in quello studio in solari?",
@@ -29,10 +29,10 @@ const risposteBottone2 = [
     "chi rimane tutta la notte a vedere le elezioni americane?",
     "se solo fossi amica di quelle di est radio...",
     "oddio ho excel alle 18",
-    "io l'avevo detto per prima però"
-    "facciamo i giochi? tanto il cruciverba del corriere lo vinci"
+    "io l'avevo detto per prima però",
+    "facciamo i giochi? tanto il cruciverba del corriere lo vinci",
     "le heets le ho comprate!! non mi dite che è scarica",
-    "ma io vi ho mai raccontato di quando sono rimasta traumatizzata a ischia?"
+    "ma io vi ho mai raccontato di quando sono rimasta traumatizzata a ischia?",
     "è una parola napoletana..avete sentito? non so se avete sentito",
     "secondo me dovremmo chiedere sul gruppo della classe",
     "sto ascoltando problemi di spazi"
@@ -50,7 +50,7 @@ const risposteBottone3 = [
     "dalla posizione mi risulta tu sia proprio a casa sinceramente",
     "chi è che vuole telefonare al mio posto?",
     "ma forse è una mossa gravissima?",
-    "ma chi è sta gente?"
+    "ma chi è sta gente?",
     "a me non convince molto questa persona"
 ];
 
